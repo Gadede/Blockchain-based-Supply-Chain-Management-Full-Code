@@ -1,0 +1,12 @@
+{
+    "prodID": "PGH101",
+    "prodDesc": "Fresh Tomatoes",
+    "IPFS_Hash": "Qm419419",
+    "Origin": "China",
+    "requsterSig": "",
+    "public_blockchainAddress": 1,
+	"certStatus": 1,
+    "certCreationTime": "",
+    "valSignature": "",
+	"prodDetailsHash": ""
+}
